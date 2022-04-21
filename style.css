@@ -1,0 +1,33 @@
+body{
+    font-family: "Times New Roman";
+    font-size: 1rem;
+    background-color: rgb(99, 18, 18);
+    border: 5px solid yellow;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 1rem;
+}
+
+
+b{
+    font-size: 2rem;
+    border: 3px solid yellow;
+    color: rgb(39, 4, 4);
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    color: wheat;
+}
+
+a{
+    color: yellow;
+}
+
+image{
+    width: 500px;
+    height: 500px;
+}
